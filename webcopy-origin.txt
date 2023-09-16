@@ -1,0 +1,468 @@
+Uri: https://cdn.onesignal.com/sdks/OneSignalSDK.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\sdks\OneSignalSDK.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3moJow.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3moJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3msJow.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3msJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7GsJow.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7GsJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGwJow.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGwJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2wJow.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2wJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGsJow.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGsJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWwJow.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWwJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmsJow.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmsJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmwJow.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmwJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQNig.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWNig.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNig.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQNig.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQNig.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXNig.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXNig.ttf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXNig.ttf
+Content Type: font/ttf
+
+Uri: https://www.ecoterra.io/brands/amb-crypto.png
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\brands\amb-crypto.png
+Content Type: image/png
+
+Uri: https://www.ecoterra.io/brands/bitcoinist.png
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\brands\bitcoinist.png
+Content Type: image/png
+
+Uri: https://www.ecoterra.io/brands/certik.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\brands\certik.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/brands/cointelegraph.png
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\brands\cointelegraph.png
+Content Type: image/png
+
+Uri: https://www.ecoterra.io/brands/newsbtc.png
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\brands\newsbtc.png
+Content Type: image/png
+
+Uri: https://www.ecoterra.io/brands/yahoo-finance.png
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\brands\yahoo-finance.png
+Content Type: image/png
+
+Uri: https://www.ecoterra.io/business/achievement.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\achievement.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/add-file.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\add-file.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/artificial-intelligence.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\artificial-intelligence.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/atmospheric-pollution.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\atmospheric-pollution.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/badge.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\badge.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/credit-card.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\credit-card.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/ecoterra-app-1.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\ecoterra-app-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/ecoterra-app-2.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\ecoterra-app-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/ecoterra-app-3.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\ecoterra-app-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/eye.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\eye.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/filter.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\filter.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/global-network.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\global-network.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/overlay.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\overlay.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/business/qr-code.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\business\qr-code.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/crypto/ecoterra.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\crypto\ecoterra.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/documents/whitepaper-ecoterra.pdf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\documents\whitepaper-ecoterra.pdf
+Content Type: application/pdf
+
+Uri: https://www.ecoterra.io/en
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\en.html
+Content Type: text/html
+
+Uri: https://www.ecoterra.io/icons/bitmart.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\icons\bitmart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/icons/candleStick.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\icons\candleStick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/icons/features_1.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\icons\features_1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/icons/features_2.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\icons\features_2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/icons/features_3.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\icons\features_3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/icons/features_4.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\icons\features_4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/icons/lbank.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\icons\lbank.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/icons/play.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\icons\play.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/icons/uniswap.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\icons\uniswap.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/images/coffee-bag.png
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\images\coffee-bag.png
+Content Type: image/png
+
+Uri: https://www.ecoterra.io/images/favicon/android-chrome-192x192.png
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\images\favicon\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://www.ecoterra.io/images/favicon/android-chrome-512x512.png
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\images\favicon\android-chrome-512x512.png
+Content Type: image/png
+
+Uri: https://www.ecoterra.io/images/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\images\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.ecoterra.io/images/favicon/favicon.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\images\favicon\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/legal/kyc-aml-policy.pdf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\legal\kyc-aml-policy.pdf
+Content Type: application/pdf
+
+Uri: https://www.ecoterra.io/legal/privacy-policy-ecoterra.pdf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\legal\privacy-policy-ecoterra.pdf
+Content Type: application/pdf
+
+Uri: https://www.ecoterra.io/legal/risk-policy-and-disclosure-ecoterra.pdf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\legal\risk-policy-and-disclosure-ecoterra.pdf
+Content Type: application/pdf
+
+Uri: https://www.ecoterra.io/legal/term-and-conditions-ecoterra.pdf
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\legal\term-and-conditions-ecoterra.pdf
+Content Type: application/pdf
+
+Uri: https://www.ecoterra.io/logo/logo-dark-bg.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\logo\logo-dark-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/logo/logo.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/co2-cycle.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\co2-cycle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/database-match.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\database-match.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/earn.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\earn.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/eco-product.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\eco-product.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/individuals-app-1.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\individuals-app-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/individuals-app-2.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\individuals-app-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/individuals-app-3.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\individuals-app-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/phone-frame.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\phone-frame.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/plant-trees.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\plant-trees.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/plastic-bottle.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\plastic-bottle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/recycle-invoice.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\recycle-invoice.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/recycling-point.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\recycling-point.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/scan-barcode.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\scan-barcode.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/solar-panel.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\solar-panel.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/recycle2earn/webinar.svg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\recycle2earn\webinar.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ecoterra.io/team/anita.jpg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\team\anita.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecoterra.io/team/cristian.jpg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\team\cristian.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecoterra.io/team/gabriel.jpg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\team\gabriel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecoterra.io/team/mihai.jpg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\team\mihai.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecoterra.io/team/robert.jpg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\team\robert.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecoterra.io/team/valentin.jpg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\team\valentin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecoterra.io/_next/static/chunks/375-ff15970c286fbe80.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\375-ff15970c286fbe80.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/450-2c3f152954589799.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\450-2c3f152954589799.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/572-9109702695db5042.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\572-9109702695db5042.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/580-6943471276fb38c8.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\580-6943471276fb38c8.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/675-0c58dfbcb3d23b05.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\675-0c58dfbcb3d23b05.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/807-0789dff2ed1a76f7.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\807-0789dff2ed1a76f7.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/d2db5d99-e98323af45ad4d94.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\d2db5d99-e98323af45ad4d94.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/ea88be26-e6762c39a47ef218.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\ea88be26-e6762c39a47ef218.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/framework-5e8ac8dd643904dd.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\framework-5e8ac8dd643904dd.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/main-2a150fa60fdc8b00.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\main-2a150fa60fdc8b00.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/pages/[lang]-e0b5146319c473d3.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\pages\[lang]-e0b5146319c473d3.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/pages/_app-6dc19a99989c55ae.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\pages\_app-6dc19a99989c55ae.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/chunks/webpack-12ab2d14f0f3a268.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\chunks\webpack-12ab2d14f0f3a268.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/css/361e7b7ce229ef67.css
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\css\361e7b7ce229ef67.css
+Content Type: text/css
+
+Uri: https://www.ecoterra.io/_next/static/css/661e90584160d7c0.css
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\css\661e90584160d7c0.css
+Content Type: text/css
+
+Uri: https://www.ecoterra.io/_next/static/css/de850ab5d8ce2f6b.css
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\css\de850ab5d8ce2f6b.css
+Content Type: text/css
+
+Uri: https://www.ecoterra.io/_next/static/ij7g1DJz-xLjGHIN3BZ-1/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\ij7g1DJz-xLjGHIN3BZ-1\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/ij7g1DJz-xLjGHIN3BZ-1/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\ij7g1DJz-xLjGHIN3BZ-1\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://www.ecoterra.io/_next/static/media/0cd2160e14a24231-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\media\0cd2160e14a24231-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.ecoterra.io/_next/static/media/2aaf0723e720e8b9-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\media\2aaf0723e720e8b9-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.ecoterra.io/_next/static/media/background-features.5f7a9ac9.jpg
+File Name: C:\Downloaded Web Sites\www.ecoterra.io\_next\static\media\background-features.5f7a9ac9.jpg
+Content Type: image/jpeg
+
